@@ -1,3 +1,10 @@
 {
-	"publishConfig": { "registry": "http://tonytestt.github.io/" }
+  "name": "@sofiaSF/tonytestt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sofiaSF/tonytestt"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/sofiaSF"
+  }
 }
